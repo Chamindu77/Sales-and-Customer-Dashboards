@@ -32,17 +32,17 @@ The dashboards are designed to help stakeholders (sales managers, executives, an
 ---
 
 ## 🛠️ Project Workflow
-1. **Requirement Analysis**  
-   - Gathered requirements for sales and customer dashboards.  
-2. **Design & Mockups**  
-   - Selected chart types, created mockups, and defined color palettes.  
-3. **Data Preparation**  
-   - Built data source, connected to Tableau, created data model, renamed fields, checked data types.  
-4. **Chart Building**  
-   - Designed charts with calculated fields, applied formatting, colors, tooltips, and interactivity.  
-5. **Dashboard Building**  
-   - Structured containers, placed charts, adjusted spacing, padding, and legends.  
-   - Added filters, icons, and final formatting for a polished look.  
+
+<img width="1402" height="772" alt="image" src="https://github.com/user-attachments/assets/8589861a-ae49-4cce-9cd6-07f59aff2fef" />
+
+<img width="1401" height="739" alt="image" src="https://github.com/user-attachments/assets/e3669beb-399e-4f72-a597-849ca0b2e130" />
+
+<img width="1403" height="735" alt="image" src="https://github.com/user-attachments/assets/79ddd940-269b-4ff0-a470-5f9af86cbf57" />
+
+<img width="1406" height="741" alt="image" src="https://github.com/user-attachments/assets/5fed5700-366b-4de3-aaf0-e51f4f7ec2ae" />
+
+<img width="1403" height="737" alt="image" src="https://github.com/user-attachments/assets/d79deef6-10d4-4527-85fb-c6a124e66259" />
+
 
 ---
 
