@@ -33,6 +33,8 @@ The dashboards are designed to help stakeholders (sales managers, executives, an
 
 ## 🛠️ Project Workflow
 
+<img width="1403" height="737" alt="image" src="https://github.com/user-attachments/assets/d79deef6-10d4-4527-85fb-c6a124e66259" />
+
 <img width="1402" height="772" alt="image" src="https://github.com/user-attachments/assets/8589861a-ae49-4cce-9cd6-07f59aff2fef" />
 
 <img width="1401" height="739" alt="image" src="https://github.com/user-attachments/assets/e3669beb-399e-4f72-a597-849ca0b2e130" />
@@ -41,7 +43,6 @@ The dashboards are designed to help stakeholders (sales managers, executives, an
 
 <img width="1406" height="741" alt="image" src="https://github.com/user-attachments/assets/5fed5700-366b-4de3-aaf0-e51f4f7ec2ae" />
 
-<img width="1403" height="737" alt="image" src="https://github.com/user-attachments/assets/d79deef6-10d4-4527-85fb-c6a124e66259" />
 
 
 ---
