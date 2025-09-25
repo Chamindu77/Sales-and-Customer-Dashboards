@@ -9,7 +9,7 @@ The dashboards are designed to help stakeholders (sales managers, executives, an
 
 ---
 
-## Sales Dashboard | Requirements
+## 📝 Sales Dashboard | Requirements
 
 ### Dashboard Purpose
 The purpose of the sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
@@ -34,7 +34,7 @@ The purpose of the sales dashboard is to present an overview of the sales metric
 
 ---
 
-## Customer Dashboard | Requirements
+## 📝 Customer Dashboard | Requirements
 
 ### Dashboard Purpose
 The customer dashboard aims to provide an overview of customer data, trends, and behaviors. It will help marketing teams and management to understand customer segments and improve customer satisfaction.
@@ -57,7 +57,7 @@ The customer dashboard aims to provide an overview of customer data, trends, and
 
 ---
 
-## Design & Interactivity Requirements
+## 📝 Design & Interactivity Requirements
 
 ### Dashboard Dynamic
 - The dashboard should allow users to check historical data by offering them the flexibility to select any desired year.
