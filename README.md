@@ -1,5 +1,14 @@
 # 📊 Sales & Customer Performance Dashboards (Tableau)
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3dd8cb06-01b7-4cab-8eb0-5c4642644115" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0a58d175-ee1b-4e8b-a9dd-ce3620f23632" />
+
+<img width="1184" height="787" alt="image" src="https://github.com/user-attachments/assets/cb7806a7-ae5d-48d5-9393-7afa018361c0" />
+
+<img width="1189" height="791" alt="image" src="https://github.com/user-attachments/assets/db33519f-58a9-4735-b0fa-b4ad7db230c7" />
+
+
 ## 📒 Introduction
 This project delivers two interactive Tableau dashboards:  
 - **Sales Dashboard** → Focused on KPIs, sales trends, product subcategories, and weekly performance.  
@@ -96,6 +105,7 @@ The customer dashboard aims to provide an overview of customer data, trends, and
 - Present the data for each KPI on a monthly basis for both the current year and the previous year. ➡️ **Sparklines**
 - Identify months with highest and lowest sales and make them easy to recognize. ➡️ **Highlighted Data Points (Max/Min Markers)**
 <img width="1187" height="282" alt="image" src="https://github.com/user-attachments/assets/628b045f-8428-44e3-a89e-02c0df15898d" />
+
 
 - Compare sales performance by different product subcategories for the current year and the previous year.  ➡️ **Bar-in-Bar Chart**
 - Include a comparison of sales with profit. ➡️ **Bar Chart**
