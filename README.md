@@ -104,7 +104,6 @@ The customer dashboard aims to provide an overview of customer data, trends, and
 - Present the data for each KPI on a monthly basis for both the current year and the previous year. ➡️ **Sparklines**
 - Identify months with highest and lowest sales and make them easy to recognize. ➡️ **Highlighted Data Points (Max/Min Markers)**
 <img width="1187" height="282" alt="image" src="https://github.com/user-attachments/assets/628b045f-8428-44e3-a89e-02c0df15898d" />
-<img width="1197" height="298" alt="image" src="https://github.com/user-attachments/assets/74305cef-8761-486c-a23c-c04a56aefee2" />
 
 
 - Compare sales performance by different product subcategories for the current year and the previous year. ➡️ **Bar-in-Bar Chart**
@@ -120,7 +119,7 @@ The customer dashboard aims to provide an overview of customer data, trends, and
 - Display a summary of total number of customers, total sales per customer, and total number of orders for the current year and the previous year. ➡️ **BANs**
 - Present the data for each KPI on a monthly basis for both the current year and the previous year. ➡️ **Sparklines**
 - Identify months with highest and lowest sales and make them easy to recognize. ➡️ **Highlighted Data Points (Max/Min Markers)**
-<img width="1188" height="301" alt="image" src="https://github.com/user-attachments/assets/3b62913f-ee90-4363-b5f1-484b8a7b550b" />
+<img width="1191" height="282" alt="image" src="https://github.com/user-attachments/assets/0a6aa097-189b-48ad-90cc-8a36715d246b" />
 
 
 - Show distribution of customers based on the number of orders they have placed to provide insights into customer behavior, loyalty, and engagement. ➡️ **Histogram**
