@@ -105,9 +105,8 @@ The customer dashboard aims to provide an overview of customer data, trends, and
 - Identify months with highest and lowest sales and make them easy to recognize. ➡️ **Highlighted Data Points (Max/Min Markers)**
 <img width="1187" height="282" alt="image" src="https://github.com/user-attachments/assets/628b045f-8428-44e3-a89e-02c0df15898d" />
 
---
 
-- Compare sales performance by different product subcategories for the current year and the previous year.  ➡️ **Bar-in-Bar Chart**
+- Compare sales performance by different product subcategories for the current year and the previous year. ➡️ **Bar-in-Bar Chart**
 - Include a comparison of sales with profit. ➡️ **Bar Chart**
 - Present weekly sales and profit data for the current year. ➡️ **Line Chart**
 - Display the average weekly values. ➡️ **Reference Line**
