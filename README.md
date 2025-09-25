@@ -90,11 +90,23 @@ The customer dashboard aims to provide an overview of customer data, trends, and
 
 ## 🖼️ Screenshots
 
+### Customer Dashboard | Requirements
+
+- Display a summary of total sales, profits, and quantity for the current year and the previous year. ➡️ **BANs**
+- Present the data for each KPI on a monthly basis for both the current year and the previous year. ➡️ **Sparklines**
+- Identify months with highest and lowest sales and make them easy to recognize. ➡️ **Highlighted Data Points (Max/Min Markers)**
+<img width="1187" height="282" alt="image" src="https://github.com/user-attachments/assets/628b045f-8428-44e3-a89e-02c0df15898d" />
+
+- Compare sales performance by different product subcategories for the current year and the previous year.  ➡️ **Bar-in-Bar Chart**
+- Include a comparison of sales with profit. ➡️ **Bar Chart**
+- Present weekly sales and profit data for the current year. ➡️ **Line Chart**
+- Display the average weekly values. ➡️ **Reference Line**
+- Highlight weeks that are above and below the average to draw attention to sales & profit performance. ➡️ **Color Coding (Above/Below Avg)**
+<img width="1177" height="411" alt="image" src="https://github.com/user-attachments/assets/40e6791a-c41d-431a-99ef-f7003e42a2b1" />
+
 ---
 
 ## ⚙️ Tech Stack
-- **Tool**: Tableau Desktop / Tableau Public  
-- **Data Source**: Sample Superstore Dataset (or specify your dataset)  
-- **Languages/Concepts**: Data modeling, calculated fields, KPI metrics  
+- **Tool**: Tableau Desktop   
 
 ---
