@@ -1,10 +1,10 @@
 # 📊 Sales & Customer Performance Dashboards (Tableau)
 
 ## Sales Dashboard
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3dd8cb06-01b7-4cab-8eb0-5c4642644115" />
+<img width="1035" height="585" alt="Screenshot 2025-10-24 171558 - Edited - Edited" src="https://github.com/user-attachments/assets/d7eca7de-9aff-4588-8a40-0541ebba0004" />
 
 ## Customer Dashboard
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0a58d175-ee1b-4e8b-a9dd-ce3620f23632" />
+<img width="1036" height="581" alt="2d337986-8197-4185-a0f4-6cbe6dae9130" src="https://github.com/user-attachments/assets/42af1e0a-98c7-4a8c-8851-a6039977e8b3" />
 
 ---
 
